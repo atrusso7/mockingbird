@@ -1,5 +1,6 @@
 
-# Ollama Client
+![logo](image.png)
+# Mockingbird - Ollama Client
 
 Ollama Client is a Python-based application designed to interface with the Ollama model to generate responses based on different prompts. It can extract transcripts from YouTube videos, use them as input, and manage multiple modes of operation. The application is modular, with components handling different aspects of its functionality.
 
